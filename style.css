@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+
+
+ol{
+    list-style-type: decimal-leading-zero;
+    padding: 5px;
+    background-color: gray;
+    border-left-color: red;
+    border-left-width: 5px;
+    border-left-style: solid;
+    list-style-position: inside;
+}
+
